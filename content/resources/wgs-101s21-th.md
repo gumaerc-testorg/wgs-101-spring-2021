@@ -8,8 +8,8 @@ file_type: image/jpeg
 image_metadata:
   caption: A building in Washington D.C. is decorated in rainbows in celebration of
     LGBTQ+ Pride.
-  credit: Image by {{% resource_link "233b6b4b-de2e-422e-8ef5-1a83731438f9" "Ted Eytan"
-    %}} on flickr. (License CC BY-NC)
+  credit: Image by [Ted Eytan](https://www.flickr.com/photos/taedc/35155908385/) on
+    flickr. (License CC BY-NC)
   image-alt: 'Huge streamers in a rainbow of colors cascade from a balcony to the
     street. '
 learning_resource_types: []
